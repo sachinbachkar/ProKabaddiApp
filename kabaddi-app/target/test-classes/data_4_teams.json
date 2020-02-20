@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "name":"TeamMumbai",
+        "description":"Mumbai Team",
+        "city":"Mumbai"
+    },
+    {
+        "id":2,
+        "name":"TeamPune",
+        "description":"Pune Team",
+        "city":"Pune"
+    },
+    {
+        "id":3,
+        "name":"TeamNagpur",
+        "description":"Nagpur Team",
+        "city":"Nagpur"
+    },
+    {
+        "id":4,
+        "name":"TeamBhandara",
+        "description":"Bhandara Team",
+        "city":"Bhandara"
+    }
+]
